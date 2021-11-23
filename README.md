@@ -1,4 +1,2 @@
 # My-Project
-Business Problem: To build  ML model for predicting the selling price of old cars.
-The dataset 'Car_details_v3.csv' having 8128 rows and 13 columns have been used in this project for exploring different insights as well as the model building.
-For any new instance of car to this dataset I used KNN(K-Nearest Neighbor Regressor) for determining the number of nearest neighbors in order to predict the selling price of it. Also performed Grid search to improve the score and reduce the Root mean square error .
+Business Problem: As per the reports from Auto Car India, in FY2021, the pre-owned sector in India stood at 3.8 million units, making it 1.5 times bigger than the 2.6 million unit new car market. While sales in both segments are set to rise in the next few years, the gap is expected to widen, with the research report projecting 8.2 million used car sales in FY2025, compared to 3.9 million new vehicle purchases in the same year. 
